@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+12,Arizona,All firms,97312,100.0,100.0,100.0,100.0,100.0,100.0
+13,Arizona,"All firms classifiable by gender, ethnicity, race, and veteran status",90591,97.8943958536,97.3231499333,96.3068995133,95.960289139,94.1362176408,52.4564730219
+14,Arizona,Equally male-/female-owned,19304,18.831659648,18.7601957586,20.9561981105,17.5221886723,23.4716007357,7.84347526289
+15,Arizona,Female-owned,19139,22.3086059821,21.5631024766,24.7828991316,23.4559429042,17.0066159717,4.22340975694
+16,Arizona,Male-owned,52148,56.7541302235,56.9998516981,50.5582593759,54.9821575624,53.6580009334,40.3895880021
+17,Arizona,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",6720,2.10560414642,2.67685006674,3.702643382,4.03971086101,5.86378235924,47.5435269781

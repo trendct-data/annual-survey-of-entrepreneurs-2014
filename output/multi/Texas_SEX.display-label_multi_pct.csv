@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+258,Texas,All firms,387504,100.0,100.0,100.0,100.0,100.0,100.0
+259,Texas,"All firms classifiable by gender, ethnicity, race, and veteran status",364527,96.2567381221,96.7832070134,96.7313508065,96.4539356268,93.5497591875,66.2654228107
+260,Texas,Equally male-/female-owned,59149,16.2742885797,17.0793894729,14.2867943548,16.2791556403,14.8433410114,7.82425519109
+261,Texas,Female-owned,75358,21.7475241319,22.5839125423,22.6360887097,20.7372761401,17.3051251178,8.89557628649
+262,Texas,Male-owned,230020,58.2374326188,57.1181586392,59.8109879032,59.4375038464,61.4012930583,49.5455913331
+263,Texas,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",22977,3.7432618779,3.21679298662,3.26864919355,3.54606437319,6.45024081248,33.7345771893

@@ -1,0 +1,7 @@
+,GEO.display-label,VET_GROUP.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+78,Illinois,All firms,241031,100.0,100.0,100.0,100.0,100.0,100.0
+79,Illinois,"All firms classifiable by gender, ethnicity, race, and veteran status",225194,98.0589199767,97.3487729001,96.5503913422,96.9083662047,93.3063556725,61.3965543528
+80,Illinois,Equally veteran-/nonveteran-owned,6062,2.23197757444,2.16730038023,0.961445550295,2.51750273642,2.95883052742,2.37841134319
+81,Illinois,Nonveteran-owned,204415,92.3996403448,91.1648807466,90.950816504,89.5148799075,82.3966256895,53.1940844641
+82,Illinois,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",15837,1.94108002327,2.6512270999,3.44960865784,3.09163379525,6.69364432748,38.6034456472
+83,Illinois,Veteran-owned,14717,3.42730205744,4.02004839267,4.63812928785,4.87598356085,7.95089945564,5.81643543223

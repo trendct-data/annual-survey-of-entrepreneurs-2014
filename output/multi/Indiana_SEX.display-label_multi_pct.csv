@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+84,Indiana,All firms,100200,100.0,100.0,100.0,100.0,100.0,100.0
+85,Indiana,"All firms classifiable by gender, ethnicity, race, and veteran status",92052,97.7722119694,96.372865713,96.2023780636,96.0343547874,92.5093790836,58.9016461475
+86,Indiana,Equally male-/female-owned,14851,13.9862905352,13.5579141671,15.4331472943,17.6227335383,15.442819205,5.50560243464
+87,Indiana,Female-owned,16726,19.7600843659,22.3257960314,23.4651783548,19.2503446082,14.0918096362,7.7050767741
+88,Indiana,Male-owned,60475,64.0258370683,60.4891555145,57.3040524145,59.1612766409,62.9747502424,45.7048001107
+89,Indiana,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",8148,2.22778803058,3.62713428703,3.79762193642,3.9656452126,7.48851325718,41.0983538525

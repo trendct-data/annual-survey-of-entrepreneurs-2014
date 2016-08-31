@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+138,Minnesota,All firms,111389,100.0,100.0,100.0,100.0,100.0,100.0
+139,Minnesota,"All firms classifiable by gender, ethnicity, race, and veteran status",103076,98.8185317934,97.5995316159,97.2247823861,96.4910630292,92.5633989576,56.1739659367
+140,Minnesota,Equally male-/female-owned,17389,14.3501924864,17.5393108063,15.5350742448,17.3612417686,15.8327041014,6.15875912409
+141,Minnesota,Female-owned,18175,21.3460772601,21.4369354299,18.6277521761,19.3650047037,14.1420652314,5.91545012165
+142,Minnesota,Male-owned,67512,63.1355369707,58.6232853797,63.0517153098,59.7648165569,62.5886296249,44.099756691
+143,Minnesota,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",8313,1.18146820656,2.40883238541,2.77521761393,3.50893697084,7.43660104238,43.8108272506

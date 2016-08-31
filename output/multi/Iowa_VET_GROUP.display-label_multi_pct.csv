@@ -1,0 +1,7 @@
+,GEO.display-label,VET_GROUP.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+90,Iowa,All firms,60205,100.0,100.0,100.0,100.0,100.0,100.0
+91,Iowa,"All firms classifiable by gender, ethnicity, race, and veteran status",54789,97.8248587571,97.5254730713,96.8364831553,95.7503663477,91.4416398441,55.2590615966
+92,Iowa,Equally veteran-/nonveteran-owned,2325,1.83615819209,2.81416787967,3.32785538209,4.37893285062,4.40792817212,2.55726039582
+93,Iowa,Nonveteran-owned,48329,91.6101694915,90.0048520136,88.742810189,83.7427807948,79.3020498052,46.253057594
+94,Iowa,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",5416,2.17514124294,2.47452692868,3.18405916187,4.24963365227,8.55836015585,44.7409384034
+95,Iowa,Veteran-owned,4135,4.37853107345,4.70645317807,4.76581758422,7.62865270235,7.73504997459,6.44874360685

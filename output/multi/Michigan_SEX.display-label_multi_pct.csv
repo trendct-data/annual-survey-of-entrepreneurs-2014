@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+132,Michigan,All firms,161794,100.0,100.0,100.0,100.0,100.0,100.0
+133,Michigan,"All firms classifiable by gender, ethnicity, race, and veteran status",151342,98.2576646004,97.6850306066,95.8738625667,96.4285714286,94.1795382721,62.7109921779
+134,Michigan,Equally male-/female-owned,18307,11.7105042721,11.8864774624,11.5312205836,12.4020632019,11.34139686,5.83573487032
+135,Michigan,Female-owned,28526,23.0943206567,23.9955481358,23.8547223094,20.5014364064,14.3239710119,8.75874845615
+136,Michigan,Male-owned,104508,63.4528396716,61.8030050083,60.4879196737,63.5218072604,68.5129012197,48.1165088514
+137,Michigan,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",10452,1.74233539956,2.31496939343,4.12613743332,3.57142857143,5.82046172786,37.2890078221

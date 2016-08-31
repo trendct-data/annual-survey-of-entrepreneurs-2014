@@ -1,0 +1,7 @@
+,GEO.display-label,VET_GROUP.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+300,Wyoming,All firms,17167,100.0,100.0,100.0,100.0,100.0,100.0
+301,Wyoming,"All firms classifiable by gender, ethnicity, race, and veteran status",15480,98.8210818308,98.0141843972,94.9339207048,92.8241369937,91.3929939792,47.3015873016
+302,Wyoming,Equally veteran-/nonveteran-owned,868,0.901525658807,5.768321513,5.43318649046,5.16444686056,6.21237000547,1.26984126984
+303,Wyoming,Nonveteran-owned,13468,93.4119278779,85.3427895981,81.7914831131,82.6039684697,77.2441160372,41.1904761905
+304,Wyoming,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",1687,1.17891816921,1.98581560284,5.06607929515,7.17586300625,8.62068965517,52.7777777778
+305,Wyoming,Veteran-owned,1143,4.50762829404,6.85579196217,7.70925110132,5.0557216635,7.93650793651,4.84126984127

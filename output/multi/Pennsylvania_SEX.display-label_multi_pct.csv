@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+228,Pennsylvania,All firms,212828,100.0,100.0,100.0,100.0,100.0,100.0
+229,Pennsylvania,"All firms classifiable by gender, ethnicity, race, and veteran status",197466,97.6625612502,97.4139414802,96.7299037202,95.9614490839,92.4662055506,62.5911141965
+230,Pennsylvania,Equally male-/female-owned,20307,10.5548933916,10.2323580034,11.092121005,9.83097282356,9.4854059639,3.93092676154
+231,Pennsylvania,Female-owned,37175,23.9438484969,19.6471600688,20.3725858828,19.8869890658,15.5459250543,9.00728913572
+232,Pennsylvania,Male-owned,139984,63.1704410012,67.5344234079,65.2651968325,66.2434871945,67.4348745324,49.6528982992
+233,Pennsylvania,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",15363,2.33743874983,2.58605851979,3.27009627984,4.03610479196,7.53379444939,37.4088858035

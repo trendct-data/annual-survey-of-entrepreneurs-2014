@@ -1,0 +1,7 @@
+,GEO.display-label,VET_GROUP.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+180,New Jersey,All firms,183712,100.0,100.0,100.0,100.0,100.0,100.0
+181,New Jersey,"All firms classifiable by gender, ethnicity, race, and veteran status",173142,98.6402081978,98.1449324467,97.3463768965,96.0220805827,94.533708599,58.2190132371
+182,New Jersey,Equally veteran-/nonveteran-owned,2844,0.60507482108,1.12659353691,1.30630894499,0.904848622809,2.13996461102,1.72081829122
+183,New Jersey,Nonveteran-owned,159945,93.7020169161,93.2616153488,93.2927186457,90.9145231049,84.9620577862,49.3622141998
+184,New Jersey,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",10571,1.35328562134,1.85506755326,2.65362310351,3.97791941725,5.46629140095,41.7809867629
+185,New Jersey,Veteran-owned,10353,4.33311646064,3.7609588751,2.74734930584,4.202708855,7.43168620186,7.14801444043

@@ -1,0 +1,7 @@
+,GEO.display-label,VET_GROUP.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+120,Maryland,All firms,100593,100.0,100.0,100.0,100.0,100.0,100.0
+121,Maryland,"All firms classifiable by gender, ethnicity, race, and veteran status",93285,97.8070175439,97.6327523308,96.8786532616,96.6369676057,93.6638529757,53.6892901619
+122,Maryland,Equally veteran-/nonveteran-owned,2297,1.4714204867,2.00243210377,2.18611176058,1.59138898903,2.97681376215,0.871731008717
+123,Maryland,Nonveteran-owned,83107,90.9026598755,89.112282124,89.221416881,89.4061904517,80.9381344161,43.9445828144
+124,Maryland,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",7308,2.19298245614,2.35914065667,3.13303717559,3.36818252047,6.33614702425,46.3107098381
+125,Maryland,Veteran-owned,7882,5.44708545557,6.51803810296,5.45943418284,5.63423803883,9.74676781707,8.87297633873

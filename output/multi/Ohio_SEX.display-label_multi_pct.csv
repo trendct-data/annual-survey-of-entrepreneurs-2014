@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+210,Ohio,All firms,172674,100.0,100.0,100.0,100.0,100.0,100.0
+211,Ohio,"All firms classifiable by gender, ethnicity, race, and veteran status",159493,97.3479197746,96.7661013252,95.6528574798,96.1263788816,92.8018940569,62.0905673886
+212,Ohio,Equally male-/female-owned,17862,10.7906514172,10.3833778699,9.37033252103,10.680354524,10.9977128803,4.87739395024
+213,Ohio,Female-owned,31231,21.0260235372,20.3250259039,23.7088279223,21.0100108398,16.4787550713,9.15518167174
+214,Ohio,Male-owned,110401,65.5312448202,66.0576975514,62.5736970364,64.4392016834,65.3254261053,48.0579917666
+215,Ohio,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",13181,2.65208022543,3.23389867481,4.34714252024,3.87362111841,7.19810594306,37.9094326114

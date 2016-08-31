@@ -1,0 +1,7 @@
+,GEO.display-label,VET_GROUP.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+192,New York,All firms,432907,100.0,100.0,100.0,100.0,100.0,100.0
+193,New York,"All firms classifiable by gender, ethnicity, race, and veteran status",407744,97.602830393,97.9951030272,96.3455800684,96.565903139,92.9595498332,65.8940602015
+194,New York,Equally veteran-/nonveteran-owned,6416,0.69075067992,0.965085220046,1.5419125814,1.47768074038,1.7787962215,2.04586191977
+195,New York,Nonveteran-owned,378895,93.6003273244,93.9074026965,92.0051397086,90.9514273187,83.9045593674,57.2037826813
+196,New York,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",25163,2.39716960697,2.00489697278,3.65441993162,3.43409686097,7.03990064679,34.1059397985
+197,New York,Veteran-owned,22432,3.31175238875,3.12102518443,2.80070562101,4.13679507993,7.27619424433,6.64441560047

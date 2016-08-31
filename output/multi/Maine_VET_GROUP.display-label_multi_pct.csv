@@ -1,0 +1,7 @@
+,GEO.display-label,VET_GROUP.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+114,Maine,All firms,31343,100.0,100.0,100.0,100.0,100.0,100.0
+115,Maine,"All firms classifiable by gender, ethnicity, race, and veteran status",28760,99.9128160418,98.368226601,98.0566801619,96.8185451639,92.2484735864,44.5219123506
+116,Maine,Equally veteran-/nonveteran-owned,1222,6.01569311247,0.677339901478,4.85829959514,4.30055955236,4.23413857181,1.74302788845
+117,Maine,Nonveteran-owned,24514,86.6172624237,86.4839901478,86.7206477733,86.6506794564,75.7366604725,37.0019920319
+118,Maine,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",2583,0.0871839581517,1.63177339901,1.94331983806,3.18145483613,7.75152641359,55.4780876494
+119,Maine,Veteran-owned,3024,7.23626852659,11.2376847291,6.43724696356,5.86730615508,12.2776745421,5.77689243028

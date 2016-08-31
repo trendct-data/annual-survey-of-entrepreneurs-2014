@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+114,Maine,All firms,31343,100.0,100.0,100.0,100.0,100.0,100.0
+115,Maine,"All firms classifiable by gender, ethnicity, race, and veteran status",28760,99.9128160418,98.368226601,98.0566801619,96.8185451639,92.2484735864,44.5219123506
+116,Maine,Equally male-/female-owned,4911,19.1804707934,16.8103448276,22.3076923077,15.9392486011,14.8991239713,6.57370517928
+117,Maine,Female-owned,5709,22.6678291194,24.8768472906,19.7975708502,24.7482014388,14.6867533847,6.57370517928
+118,Maine,Male-owned,18140,58.064516129,56.7118226601,55.9109311741,56.1310951239,62.6692328113,31.4243027888
+119,Maine,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",2583,0.0871839581517,1.63177339901,1.94331983806,3.18145483613,7.75152641359,55.4780876494

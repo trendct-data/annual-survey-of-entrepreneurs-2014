@@ -1,0 +1,7 @@
+,GEO.display-label,VET_GROUP.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+42,Delaware,All firms,17977,100.0,100.0,100.0,100.0,100.0,100.0
+43,Delaware,"All firms classifiable by gender, ethnicity, race, and veteran status",15482,90.0562851782,97.6039783002,89.9493243243,93.4548714883,92.5140863966,36.4344637947
+44,Delaware,Equally veteran-/nonveteran-owned,405,2.18886804253,1.03978300181,1.68918918919,2.95875672445,2.75020123424,1.09990834097
+45,Delaware,Nonveteran-owned,13476,78.8617886179,86.0759493671,80.8277027027,82.2474596533,79.1521330829,32.1723189734
+46,Delaware,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",2494,9.88117573483,2.39602169982,10.0506756757,6.5152420801,7.49932921921,63.5655362053
+47,Delaware,Veteran-owned,1601,9.06816760475,10.4882459313,7.43243243243,8.24865511058,10.6251676952,3.16223648029

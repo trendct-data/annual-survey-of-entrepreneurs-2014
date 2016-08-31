@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+42,Delaware,All firms,17977,100.0,100.0,100.0,100.0,100.0,100.0
+43,Delaware,"All firms classifiable by gender, ethnicity, race, and veteran status",15482,90.0562851782,97.6039783002,89.9493243243,93.4548714883,92.5140863966,36.4344637947
+44,Delaware,Equally male-/female-owned,1899,11.6322701689,13.6528028933,9.20608108108,14.2857142857,10.880064395,0.595783684693
+45,Delaware,Female-owned,2615,14.6341463415,22.4231464738,7.68581081081,15.7800358637,15.4011269117,5.40788267644
+46,Delaware,Male-owned,10968,63.7898686679,61.5280289331,73.0574324324,63.4190077705,66.2328950899,30.4307974335
+47,Delaware,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",2494,9.88117573483,2.39602169982,10.0506756757,6.5152420801,7.49932921921,63.5655362053

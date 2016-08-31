@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+270,Vermont,All firms,17259,100.0,100.0,100.0,100.0,100.0,100.0
+271,Vermont,"All firms classifiable by gender, ethnicity, race, and veteran status",15013,91.0433979686,94.8412698413,95.7779515246,93.2680151707,88.5766927683,47.2041612484
+272,Vermont,Equally male-/female-owned,3034,14.9584487535,16.8650793651,17.5136825645,18.01517067,18.436204514,14.4993498049
+273,Vermont,Female-owned,2560,17.5438596491,20.1058201058,23.0648944488,16.6877370417,13.657300783,3.70611183355
+274,Vermont,Male-owned,9419,58.541089566,57.8703703704,55.1211884285,58.5651074589,56.4831874712,29.0637191157
+275,Vermont,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",2246,8.95660203139,5.15873015873,4.22204847537,6.76359039191,11.4233072317,52.7958387516

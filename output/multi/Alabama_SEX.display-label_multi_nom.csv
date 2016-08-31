@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,Firms with less than 2 years in business,Firms with 2 to 3 years in business,Firms with 4 to 5 years in business,Firms with 6 to 10 years in business,Firms with 11 to 15 years in business,Firms with 16 or more years in business
+0,Alabama,All firms,66709,4948,7474,5799,13156,30208,5124
+1,Alabama,"All firms classifiable by gender, ethnicity, race, and veteran status",61568,4782,7319,5650,12671,28272,2873
+2,Alabama,Equally male-/female-owned,7401,704,1116,734,1878,2698,271
+3,Alabama,Female-owned,11363,1090,1456,1307,2568,4574,369
+4,Alabama,Male-owned,42803,2988,4746,3610,8226,21000,2233
+5,Alabama,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",5141,166,156,148,485,1935,2251

@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+192,New York,All firms,432907,100.0,100.0,100.0,100.0,100.0,100.0
+193,New York,"All firms classifiable by gender, ethnicity, race, and veteran status",407744,97.602830393,97.9951030272,96.3455800684,96.565903139,92.9595498332,65.8940602015
+194,New York,Equally male-/female-owned,37513,7.92798863992,8.8765581277,8.02970577346,8.82460984252,9.23633206394,4.28333024291
+195,New York,Female-owned,85162,24.4819369901,24.2686339354,23.0219744321,21.5845667089,16.2036960715,8.98077755115
+196,New York,Male-owned,285069,65.1904979663,64.8499109641,65.2960777054,66.1567265876,67.5189721778,52.6237715557
+197,New York,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",25163,2.39716960697,2.00489697278,3.65441993162,3.43409686097,7.03990064679,34.1059397985

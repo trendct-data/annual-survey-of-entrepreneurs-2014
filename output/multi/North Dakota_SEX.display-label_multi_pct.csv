@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+204,North Dakota,All firms,20702,100.0,100.0,100.0,100.0,100.0,100.0
+205,North Dakota,"All firms classifiable by gender, ethnicity, race, and veteran status",18663,95.9649122807,97.753164557,95.2319587629,96.7177242888,89.9587651844,51.2416717141
+206,North Dakota,Equally male-/female-owned,3786,14.8538011696,24.4936708861,21.2628865979,16.9310722101,18.511088822,8.96426408237
+207,North Dakota,Female-owned,2860,13.7426900585,15.5696202532,16.1726804124,18.9004376368,12.3927337568,4.66384009691
+208,North Dakota,Male-owned,12017,67.3684210526,57.6898734177,57.8608247423,60.886214442,59.0549426056,37.6135675348
+209,North Dakota,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",2039,4.0350877193,2.24683544304,4.76804123711,3.28227571116,10.0412348156,48.7583282859

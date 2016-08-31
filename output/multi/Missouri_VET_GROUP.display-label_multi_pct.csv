@@ -1,0 +1,7 @@
+,GEO.display-label,VET_GROUP.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+150,Missouri,All firms,108075,100.0,100.0,100.0,100.0,100.0,100.0
+151,Missouri,"All firms classifiable by gender, ethnicity, race, and veteran status",100397,97.8459291712,96.9747664854,97.0784549732,96.4873056094,92.8792966995,59.946714032
+152,Missouri,Equally veteran-/nonveteran-owned,4538,2.05366922234,3.68743900739,3.46865083707,4.16852983554,5.24908558106,2.57548845471
+153,Missouri,Nonveteran-owned,87399,90.7995618839,88.066359961,86.1144545355,86.525562677,77.1705418066,51.1249259917
+154,Missouri,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",7678,2.15407082877,3.01826293043,2.92154502681,3.51269439062,7.12070330046,40.053285968
+155,Missouri,Veteran-owned,8459,4.99269806499,5.22793810121,7.49534960061,5.79321309684,10.4575303202,6.24629958555

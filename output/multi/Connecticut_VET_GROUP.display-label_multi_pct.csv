@@ -1,0 +1,7 @@
+,GEO.display-label,VET_GROUP.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+36,Connecticut,All firms,67920,100.0,100.0,100.0,100.0,100.0,100.0
+37,Connecticut,"All firms classifiable by gender, ethnicity, race, and veteran status",61988,97.113022113,94.5817490494,96.6393278656,95.7432821103,92.6747630332,52.9200927683
+38,Connecticut,Equally veteran-/nonveteran-owned,1427,1.10565110565,1.08636610538,2.70054010802,2.26805818062,2.38744075829,1.64452877925
+39,Connecticut,Nonveteran-owned,55051,91.5028665029,88.9598044541,90.3380676135,86.0300764237,79.5971563981,45.8359687961
+40,Connecticut,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",5932,2.88697788698,5.43183052689,3.36067213443,4.25671788972,7.32523696682,47.0799072317
+41,Connecticut,Veteran-owned,5509,4.52497952498,4.53557848995,3.60072014403,7.44514750596,10.6931279621,5.43959519292

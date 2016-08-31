@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+24,California,All firms,681808,100.0,100.0,100.0,100.0,100.0,100.0
+25,California,"All firms classifiable by gender, ethnicity, race, and veteran status",646823,98.2199096262,97.7991151081,96.922850845,96.6152186923,93.8131230859,67.7093401283
+26,California,Equally male-/female-owned,104974,14.4445965889,15.811511845,12.7700220426,17.2211517595,15.6031218552,9.53343291451
+27,California,Female-owned,135667,23.5915225098,23.5692701189,24.5378398237,20.2619966724,17.173099339,10.3637641684
+28,California,Male-owned,406182,60.1837905275,58.4183331443,59.6149889787,59.1320702604,61.037263888,47.8121430454
+29,California,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",34985,1.78009037382,2.20088489186,3.07714915503,3.38478130775,6.18687691405,32.2906598717

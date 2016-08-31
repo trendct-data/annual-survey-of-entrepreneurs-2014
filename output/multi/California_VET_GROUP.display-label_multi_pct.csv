@@ -1,0 +1,7 @@
+,GEO.display-label,VET_GROUP.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+24,California,All firms,681808,100.0,100.0,100.0,100.0,100.0,100.0
+25,California,"All firms classifiable by gender, ethnicity, race, and veteran status",646823,98.2199096262,97.7991151081,96.922850845,96.6152186923,93.8131230859,67.7093401283
+26,California,Equally veteran-/nonveteran-owned,17480,2.26086691923,2.18438341189,2.14548126378,2.24775257623,3.08674152748,2.06923820402
+27,California,Nonveteran-owned,590937,91.5833675658,92.1958313136,90.061719324,90.0153225966,83.1718830318,58.9666988841
+28,California,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",34985,1.78009037382,2.20088489186,3.07714915503,3.38478130775,6.18687691405,32.2906598717
+29,California,Veteran-owned,38405,4.37415369635,3.41890038263,4.71565025716,4.35148589729,7.55413653048,6.67779632721

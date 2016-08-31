@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+234,Rhode Island,All firms,22757,100.0,100.0,100.0,100.0,100.0,100.0
+235,Rhode Island,"All firms classifiable by gender, ethnicity, race, and veteran status",20647,96.066252588,96.6233766234,98.1053878034,96.8864917872,92.6865541073,45.5
+236,Rhode Island,Equally male-/female-owned,2921,9.10973084886,14.4155844156,10.6571936057,11.0566315273,15.1692765287,5.05555555556
+237,Rhode Island,Female-owned,3968,26.0179434092,22.1212121212,23.9786856128,15.2488354989,16.612719797,8.55555555556
+238,Rhode Island,Male-owned,13758,60.9385783299,60.1298701299,63.469508585,70.581024761,60.8958096405,31.8888888889
+239,Rhode Island,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",2110,3.93374741201,3.33333333333,1.89461219657,3.0889924001,7.31344589275,54.5

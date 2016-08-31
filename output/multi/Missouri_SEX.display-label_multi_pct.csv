@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+150,Missouri,All firms,108075,100.0,100.0,100.0,100.0,100.0,100.0
+151,Missouri,"All firms classifiable by gender, ethnicity, race, and veteran status",100397,97.8459291712,96.9747664854,97.0784549732,96.4873056094,92.8792966995,59.946714032
+152,Missouri,Equally male-/female-owned,18080,12.8240233662,14.7846089502,18.3499288762,18.1845282456,18.6242005519,7.56364712848
+153,Missouri,Female-owned,22797,33.2876962395,31.3397462707,24.3571506729,22.685944254,15.9205150692,6.18709295441
+154,Missouri,Male-owned,59520,51.7433369843,50.8504112645,54.371375424,55.6118646594,58.3324420868,46.1959739491
+155,Missouri,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",7678,2.15407082877,3.01826293043,2.92154502681,3.51269439062,7.12070330046,40.053285968

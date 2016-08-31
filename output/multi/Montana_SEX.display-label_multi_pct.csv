@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+156,Montana,All firms,30458,100.0,100.0,100.0,100.0,100.0,100.0
+157,Montana,"All firms classifiable by gender, ethnicity, race, and veteran status",27847,96.9899665552,94.848311391,97.7272727273,96.3785046729,91.3707095525,48.6206896552
+158,Montana,Equally male-/female-owned,6796,17.4331103679,18.803663423,26.1755485893,20.925817757,26.1335715881,6.37931034483
+159,Montana,Female-owned,5524,25.3762541806,24.2129364625,19.8275862069,18.8960280374,15.4791154791,11.091954023
+160,Montana,Male-owned,15527,54.1806020067,51.8603319977,51.6849529781,56.5712616822,49.7654679473,31.1494252874
+161,Montana,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",2611,3.01003344482,5.15168860904,2.31191222571,3.6214953271,8.62184498548,51.3793103448

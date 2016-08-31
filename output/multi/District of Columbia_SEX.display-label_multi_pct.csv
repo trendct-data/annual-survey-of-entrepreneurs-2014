@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+48,District of Columbia,All firms,14345,100.0,100.0,100.0,100.0,100.0,100.0
+49,District of Columbia,"All firms classifiable by gender, ethnicity, race, and veteran status",11124,100.0,88.8818698673,86.1111111111,88.0981101729,79.1770131252,33.7309160305
+50,District of Columbia,Equally male-/female-owned,763,5.04966887417,6.94883133291,0.0,5.83031765179,6.72224192976,3.24427480916
+51,District of Columbia,Female-owned,2628,17.5496688742,25.2684775742,20.1201201201,26.4575794129,17.2756296559,5.53435114504
+52,District of Columbia,Male-owned,7733,77.3178807947,56.6645609602,65.990990991,55.8102131082,55.1968783256,24.9522900763
+53,District of Columbia,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",3220,0.0,11.1181301327,13.8888888889,11.9420989144,20.8229868748,66.2690839695

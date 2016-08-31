@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+180,New Jersey,All firms,183712,100.0,100.0,100.0,100.0,100.0,100.0
+181,New Jersey,"All firms classifiable by gender, ethnicity, race, and veteran status",173142,98.6402081978,98.1449324467,97.3463768965,96.0220805827,94.533708599,58.2190132371
+182,New Jersey,Equally male-/female-owned,17757,10.0585556278,8.15721485748,10.2044402788,9.73992715684,10.3079316446,5.30685920578
+183,New Jersey,Female-owned,33935,24.5478204294,23.6626995892,24.7437174155,18.4469610744,15.6827817165,7.97833935018
+184,New Jersey,Male-owned,121450,64.0403383214,66.3250180001,62.4040770898,67.8351923515,68.5429952379,44.9458483755
+185,New Jersey,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",10571,1.35328562134,1.85506755326,2.65362310351,3.97791941725,5.46629140095,41.7809867629

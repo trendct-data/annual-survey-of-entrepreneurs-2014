@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+300,Wyoming,All firms,17167,100.0,100.0,100.0,100.0,100.0,100.0
+301,Wyoming,"All firms classifiable by gender, ethnicity, race, and veteran status",15480,98.8210818308,98.0141843972,94.9339207048,92.8241369937,91.3929939792,47.3015873016
+302,Wyoming,Equally male-/female-owned,3590,20.5963938974,16.6903073286,19.3832599119,27.1269366676,21.3601532567,9.28571428571
+303,Wyoming,Female-owned,3014,27.6699029126,23.3096926714,21.0719530103,20.7665126393,13.6425834702,5.79365079365
+304,Wyoming,Male-owned,8876,50.4854368932,57.9669030733,54.4787077827,44.9306876869,56.3902572523,32.2222222222
+305,Wyoming,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",1687,1.17891816921,1.98581560284,5.06607929515,7.17586300625,8.62068965517,52.7777777778

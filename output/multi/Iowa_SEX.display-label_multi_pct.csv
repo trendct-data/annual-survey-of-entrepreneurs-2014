@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+90,Iowa,All firms,60205,100.0,100.0,100.0,100.0,100.0,100.0
+91,Iowa,"All firms classifiable by gender, ethnicity, race, and veteran status",54789,97.8248587571,97.5254730713,96.8364831553,95.7503663477,91.4416398441,55.2590615966
+92,Iowa,Equally male-/female-owned,10837,20.1694915254,20.4108038169,17.9745275267,19.6965778812,18.5024563781,5.33689126084
+93,Iowa,Female-owned,9216,22.2316384181,21.4135532913,20.4601479047,18.2398069132,12.6952397086,5.49255058928
+94,Iowa,Male-owned,34735,55.4237288136,55.7011159631,58.3812654067,57.8139815533,60.2473318652,44.4296197465
+95,Iowa,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",5416,2.17514124294,2.47452692868,3.18405916187,4.24963365227,8.55836015585,44.7409384034

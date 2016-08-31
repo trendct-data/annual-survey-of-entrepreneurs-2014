@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+96,Kansas,All firms,55600,100.0,100.0,100.0,100.0,100.0,100.0
+97,Kansas,"All firms classifiable by gender, ethnicity, race, and veteran status",50365,97.4196689387,95.5488113303,95.6832923283,94.8078533544,91.6359210376,52.7393879566
+98,Kansas,Equally male-/female-owned,10259,15.7497565725,17.467543416,17.0655334377,19.9125337303,20.5431516489,6.7374136229
+99,Kansas,Female-owned,9275,27.7507302824,21.9693137751,17.1102661597,20.6569275147,13.8298276977,5.20730503455
+100,Kansas,Male-owned,30831,53.9191820837,56.1119541393,61.5298590919,54.2383921094,57.2629416911,40.7946692991
+101,Kansas,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",5235,2.58033106134,4.4511886697,4.31670767166,5.19214664558,8.36027537941,47.2852912142

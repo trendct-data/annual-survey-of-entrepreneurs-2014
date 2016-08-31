@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+120,Maryland,All firms,100593,100.0,100.0,100.0,100.0,100.0,100.0
+121,Maryland,"All firms classifiable by gender, ethnicity, race, and veteran status",93285,97.8070175439,97.6327523308,96.8786532616,96.6369676057,93.6638529757,53.6892901619
+122,Maryland,Equally male-/female-owned,10967,8.24844368987,12.3794081881,14.1805003507,10.3002523562,11.8046799872,1.88356164384
+123,Maryland,Female-owned,22186,29.8528579513,29.7608431293,25.1578209025,23.6133285265,19.8632332514,5.79078455791
+124,Maryland,Male-owned,60133,59.7057159027,55.5006080259,57.5403320084,62.723386723,61.9959397372,46.0305105853
+125,Maryland,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",7308,2.19298245614,2.35914065667,3.13303717559,3.36818252047,6.33614702425,46.3107098381

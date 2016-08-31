@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+222,Oregon,All firms,84159,100.0,100.0,100.0,100.0,100.0,100.0
+223,Oregon,"All firms classifiable by gender, ethnicity, race, and veteran status",78032,97.8506629449,97.434419141,95.6510809452,96.2093275488,92.7455577841,56.299541093
+224,Oregon,Equally male-/female-owned,15471,17.4738311235,18.9103488037,18.02413273,20.021691974,19.3451792424,5.77805590321
+225,Oregon,Female-owned,17598,28.1367759944,27.3085423273,23.9441930618,22.3047722343,17.7999378514,8.78181059658
+226,Oregon,Male-owned,44963,52.2260990928,51.2059190929,53.6701860231,53.8828633406,55.603265629,41.7605340008
+227,Oregon,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",6127,2.14933705513,2.56558085904,4.3489190548,3.79067245119,7.25161727732,43.6795994994

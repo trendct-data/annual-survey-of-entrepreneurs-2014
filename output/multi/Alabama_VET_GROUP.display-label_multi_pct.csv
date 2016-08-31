@@ -1,0 +1,7 @@
+,GEO.display-label,VET_GROUP.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+0,Alabama,All firms,66709,100.0,100.0,100.0,100.0,100.0,100.0
+1,Alabama,"All firms classifiable by gender, ethnicity, race, and veteran status",61568,96.645109135,97.9261439657,97.4305914813,96.3134691396,93.5911016949,56.0694769711
+2,Alabama,Equally veteran-/nonveteran-owned,1974,2.22312045271,2.9702970297,3.41438178996,2.75159622986,3.33355402542,1.46370023419
+3,Alabama,Nonveteran-owned,52677,89.2481810833,86.5533850682,87.790998448,83.6804499848,77.1318855932,46.7017954723
+4,Alabama,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",5141,3.354890865,2.0872357506,2.55216416624,3.68653086044,6.40558792373,43.9305230289
+5,Alabama,Veteran-owned,6916,5.19401778496,8.40246186781,6.22521124332,9.8814229249,13.1289724576,7.90398126464

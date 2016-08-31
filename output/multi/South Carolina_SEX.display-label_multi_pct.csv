@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+240,South Carolina,All firms,72059,100.0,100.0,100.0,100.0,100.0,100.0
+241,South Carolina,"All firms classifiable by gender, ethnicity, race, and veteran status",66852,97.9531140658,96.1046066309,96.5201180674,96.5063460254,94.5466469913,56.1380350745
+242,South Carolina,Equally male-/female-owned,8295,13.1035689293,14.4217091586,12.64564238,12.6920507682,10.8509591736,3.86573637564
+243,South Carolina,Female-owned,13122,21.0811756473,21.4465477623,25.8971570607,21.0888443554,16.1206755206,4.09202338299
+244,South Carolina,Male-owned,45435,63.7683694892,60.2472918262,57.9773186267,62.7321309285,67.5750122971,48.1802753159
+245,South Carolina,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",5207,2.02939118265,3.89539336908,3.47988193258,3.49365397462,5.45335300869,43.8619649255

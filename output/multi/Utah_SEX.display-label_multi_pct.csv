@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+264,Utah,All firms,58085,100.0,100.0,100.0,100.0,100.0,100.0
+265,Utah,"All firms classifiable by gender, ethnicity, race, and veteran status",54524,97.2680705748,97.9286132241,96.9617520049,96.895948703,95.1011610248,55.6743421053
+266,Utah,Equally male-/female-owned,9604,15.2722443559,17.2849619661,20.0185070944,18.7991839114,15.5293195513,7.48355263158
+267,Utah,Female-owned,8374,21.2483399734,17.5892334699,18.69216533,14.274264063,11.1595551854,8.27850877193
+268,Utah,Male-owned,36546,60.7474862455,63.0544177882,58.2510795805,63.8225007287,68.4073874492,39.9122807018
+269,Utah,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",3562,2.73192942516,2.08308952604,3.02282541641,3.104051297,4.89883897516,44.3256578947

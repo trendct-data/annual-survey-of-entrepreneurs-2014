@@ -1,0 +1,7 @@
+,GEO.display-label,VET_GROUP.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+222,Oregon,All firms,84159,100.0,100.0,100.0,100.0,100.0,100.0
+223,Oregon,"All firms classifiable by gender, ethnicity, race, and veteran status",78032,97.8506629449,97.434419141,95.6510809452,96.2093275488,92.7455577841,56.299541093
+224,Oregon,Equally veteran-/nonveteran-owned,3418,2.56803907886,2.53675410781,3.65761689291,3.75271149675,5.24308596288,2.73258239466
+225,Oregon,Nonveteran-owned,68554,91.2072575017,87.3834918805,86.0734037205,86.6811279826,78.341196079,49.2490613267
+226,Oregon,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",6127,2.14933705513,2.56558085904,4.3489190548,3.79067245119,7.25161727732,43.6795994994
+227,Oregon,Veteran-owned,6061,4.07536636427,7.50456423561,5.92006033183,5.78091106291,9.16127574225,4.31789737171

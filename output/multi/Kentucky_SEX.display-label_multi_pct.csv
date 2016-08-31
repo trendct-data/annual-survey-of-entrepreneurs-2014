@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+102,Kentucky,All firms,63771,100.0,100.0,100.0,100.0,100.0,100.0
+103,Kentucky,"All firms classifiable by gender, ethnicity, race, and veteran status",58541,97.1909074108,98.0352026197,97.3844641101,95.7113507961,93.3930875263,51.0709087128
+104,Kentucky,Equally male-/female-owned,9367,11.1070042506,15.7729567472,17.3058013766,14.8690292758,16.3645005772,3.59742150135
+105,Kentucky,Female-owned,11216,30.1423027167,25.5423659435,20.924287119,20.2961821606,13.8419229986,4.17966313163
+106,Kentucky,Male-owned,37958,55.9416004435,56.719879929,59.1543756146,60.5546995378,63.1866639506,43.2938240799
+107,Kentucky,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",5230,2.80909258917,1.96479738027,2.63520157325,4.2886492039,6.60691247369,48.9290912872

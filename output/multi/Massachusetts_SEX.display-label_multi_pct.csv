@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+126,Massachusetts,All firms,130710,100.0,100.0,100.0,100.0,100.0,100.0
+127,Massachusetts,"All firms classifiable by gender, ethnicity, race, and veteran status",120143,97.0916994411,96.7203299627,95.5723438845,96.3191185472,91.9138054698,53.1281606704
+128,Massachusetts,Equally male-/female-owned,12884,12.0368453736,10.0186269292,8.64492684326,11.5527443379,9.72806935479,3.49660453692
+129,Massachusetts,Female-owned,22442,22.1900227696,22.2591804151,22.4060437984,21.0732503571,14.0393551003,6.35746279439
+130,Massachusetts,Male-owned,84817,62.8544814738,64.4425226184,64.5213732428,63.6931238523,68.1463810148,43.2740933391
+131,Massachusetts,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",10567,2.90830055889,3.27967003725,4.42765611552,3.67680065293,8.0861945302,46.8573905505

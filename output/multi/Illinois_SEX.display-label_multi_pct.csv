@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+78,Illinois,All firms,241031,100.0,100.0,100.0,100.0,100.0,100.0
+79,Illinois,"All firms classifiable by gender, ethnicity, race, and veteran status",225194,98.0589199767,97.3487729001,96.5503913422,96.9083662047,93.3063556725,61.3965543528
+80,Illinois,Equally male-/female-owned,28501,13.1274131274,10.2488765987,10.8416272104,12.860122674,12.459894012,5.77831986583
+81,Illinois,Female-owned,44402,19.3790659544,22.1189077083,22.9828968983,21.7756758431,15.9468618191,10.2454642476
+82,Illinois,Male-owned,152291,65.5524408949,64.9809885932,62.7258672335,62.2725676876,64.8995998414,45.3727702394
+83,Illinois,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",15837,1.94108002327,2.6512270999,3.44960865784,3.09163379525,6.69364432748,38.6034456472

@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+0,Alabama,All firms,66709,100.0,100.0,100.0,100.0,100.0,100.0
+1,Alabama,"All firms classifiable by gender, ethnicity, race, and veteran status",61568,96.645109135,97.9261439657,97.4305914813,96.3134691396,93.5911016949,56.0694769711
+2,Alabama,Equally male-/female-owned,7401,14.2279708973,14.9317634466,12.6573547163,14.2748555792,8.93140889831,5.28883684621
+3,Alabama,Female-owned,11363,22.0291026677,19.4808670056,22.5383686843,19.519610824,15.141684322,7.20140515222
+4,Alabama,Male-owned,42803,60.3880355699,63.5001337972,62.2521124332,62.526603831,69.5180084746,43.5792349727
+5,Alabama,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",5141,3.354890865,2.0872357506,2.55216416624,3.68653086044,6.40558792373,43.9305230289

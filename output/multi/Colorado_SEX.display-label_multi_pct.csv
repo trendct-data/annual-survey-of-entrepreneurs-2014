@@ -1,0 +1,7 @@
+,GEO.display-label,SEX.display-label,All firms,PCT_Firms with less than 2 years in business,PCT_Firms with 2 to 3 years in business,PCT_Firms with 4 to 5 years in business,PCT_Firms with 6 to 10 years in business,PCT_Firms with 11 to 15 years in business,PCT_Firms with 16 or more years in business
+30,Colorado,All firms,122432,100.0,100.0,100.0,100.0,100.0,100.0
+31,Colorado,"All firms classifiable by gender, ethnicity, race, and veteran status",113691,96.488309768,96.8701283127,95.2309362733,96.0444683522,93.5715605181,52.2662889518
+32,Colorado,Equally male-/female-owned,17316,11.5700951853,12.573450054,14.6496283304,15.2483414022,15.3157775908,7.85332074284
+33,Colorado,Female-owned,26761,25.7369928842,29.835711716,23.4945293577,23.1307154384,19.0554381068,7.12936732767
+34,Colorado,Male-owned,69615,59.1812216985,54.4669624655,57.0867785851,57.6618253541,59.2003448205,37.2836008813
+35,Colorado,"Publicly held and other firms not classifiable by gender, ethnicity, race, and veteran status",8740,3.51169023196,3.12987168725,4.76906372672,3.95553164784,6.42843948195,47.7337110482
