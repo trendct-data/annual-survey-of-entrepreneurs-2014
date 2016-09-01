@@ -14,3 +14,6 @@ The files are named [STATE]_[TOPIC]_mulit_[nom/pct].csv. Example: Alabama_RACE_G
 
 The columns are self explanatory for the most part. However, it's important to note that the percentage columns, prefixed PCT_, refer to each row's portion of the column, not the row. So, Alabama_RACE_GROUP.display-label_multi_pct.csv can be read as, "80% of Alabama businesses newer than two years old are white-owned" NOT TO BE CONFUSED WITH "80% of all businesses are white-owned."
 
+# Source files
+
+Source files from the Census Bureau can be found ../data of this repo.
